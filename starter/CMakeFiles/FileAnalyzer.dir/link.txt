@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/FileAnalyzer.dir/src/main.cpp.o CMakeFiles/FileAnalyzer.dir/src/FileAnalyzerFile.cpp.o CMakeFiles/FileAnalyzer.dir/src/FileAnalyzerPng.cpp.o CMakeFiles/FileAnalyzer.dir/src/FileAnalyzerWav.cpp.o CMakeFiles/FileAnalyzer.dir/src/FileAnalyzerText.cpp.o -o FileAnalyzer 

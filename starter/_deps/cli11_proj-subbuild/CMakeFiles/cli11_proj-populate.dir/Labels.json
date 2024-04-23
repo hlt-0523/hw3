@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/CMakeFiles/cli11_proj-populate"
+		},
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/CMakeFiles/cli11_proj-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/CMakeFiles/cli11_proj-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/cli11_proj-populate-prefix/src/cli11_proj-populate-stamp/cli11_proj-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/cli11_proj-populate-prefix/src/cli11_proj-populate-stamp/cli11_proj-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/cli11_proj-populate-prefix/src/cli11_proj-populate-stamp/cli11_proj-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/cli11_proj-populate-prefix/src/cli11_proj-populate-stamp/cli11_proj-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/cli11_proj-populate-prefix/src/cli11_proj-populate-stamp/cli11_proj-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/cli11_proj-populate-prefix/src/cli11_proj-populate-stamp/cli11_proj-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/cli11_proj-populate-prefix/src/cli11_proj-populate-stamp/cli11_proj-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/hlt/Desktop/CSE111/hw3_2024.04.11.16.12/starter/_deps/cli11_proj-subbuild/cli11_proj-populate-prefix/src/cli11_proj-populate-stamp/cli11_proj-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cli11_proj-populate"
+		],
+		"name" : "cli11_proj-populate"
+	}
+}
