@@ -72,20 +72,22 @@ int main(int argc, char* argv[]) {
         std::cout << FileAnalyzerPng(filename).height() << std::endl;
     } else if (csv_get_rows || csv_get_columns) {
         std::cerr << "CSV functionality not implemented." << std::endl;
+        //接着做
     } else if (wav_get_bitrate || wav_get_channels) {
         FileAnalyzerWav wavAnalyzer(filename);
         if (wav_get_bitrate) {
-            std::cout << "Bitrate: " << wavAnalyzer.extract_bitrate() << std::endl;
+            std::cout  << wavAnalyzer.extract_bitrate() << std::endl;
         }
         if (wav_get_channels) {
-            std::cout << "Channels: " << wavAnalyzer.extract_channels() << std::endl;
+            std::cout  << wavAnalyzer.extract_channels() << std::endl;
         }
     } else if (code_get_lines || code_check_parens) {
         std::cerr << "Code analysis functionality not implemented." << std::endl;
+        //接着做
     } else if (text_get_most_common || text_get_letter_count || text_get_letter_count_sorted) {
         FileAnalyzerText textAnalyzer(filename);
         if (text_get_most_common) {
-            std::cout << "Most common word: " << textAnalyzer.find_most_common_word() << std::endl;
+            std::cout  << textAnalyzer.find_most_common_word() << std::endl;
         }
         if (text_get_letter_count) {
             auto counts = textAnalyzer.count_letters();
